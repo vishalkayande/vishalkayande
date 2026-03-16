@@ -45,31 +45,39 @@ I am a motivated **Computer Science & Engineering Student** at Deogiri Institute
 
 ### 🚀 Featured Projects
 
-#### 🌐 [Global Collaboration Hub (GCH)](https://github.com/vishalkayande/Global_Collaboration_Hub)
+#### 🌐 Global Collaboration Hub (GCH)
 * **Overview:** A centralized hub for global teams to collaborate on projects featuring real-time messaging, task management, and file sharing.
 * **Tech Stack:** Python, HTML/CSS, MySQL, Socket.io.
-* **Key Feature:** Implemented **Socket.io** for real-time bi-directional communication and integrated **JWT** for secure user authentication across distributed workspaces.
+* **Key Feature:** Implemented **Socket.io** for real-time bi-directional communication and integrated **JWT** for secure authentication.
 
 #### ☁️ AWS Cloud Architecture Implementation
 * **Overview:** Deployed a scalable WordPress architecture separating frontend and database services for enhanced security.
 * **Tech Stack:** AWS EC2, RDS, S3, EFS, Lambda, IAM, CloudWatch.
-* **Key Feature:** Managed complex AWS services including Load Balancers and Route 53 to ensure high availability.
+* **Key Feature:** Implemented Load Balancers and Route 53 for high availability.
 
 #### 🐧 Linux System Administration (RHEL)
 * **Overview:** Advanced system administration tasks on Red Hat Enterprise Linux.
-* **Key Feature:** Configured local software repositories, managed **NFS** for shared storage, and performed SE-Linux troubleshooting.
+* **Key Feature:** Configured local repositories, managed **NFS**, and performed SELinux troubleshooting.
 
 ---
 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalkayande&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vishal's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkayande&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishalkayande&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkayande&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkayande&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkayande&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+### 📈 Contribution Heatmap
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalkayande&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
@@ -78,9 +86,9 @@ I am a motivated **Computer Science & Engineering Student** at Deogiri Institute
 
 <div align="center">
   <a href="https://linkedin.com/in/vishal-kayande">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:vishalskayande121@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
