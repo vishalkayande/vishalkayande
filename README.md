@@ -47,27 +47,21 @@ I am a motivated **Computer Science & Engineering Student** passionate about **C
 # 🚀 Featured Projects
 
 ### 🌐 Global Collaboration Hub
+Real-time collaboration platform with messaging and task management.
 
-A centralized hub for global teams with **real-time messaging, task management and file sharing**.
-
-**Tech:** Python • HTML/CSS • MySQL • Socket.io
+**Tech:** Python • HTML • CSS • MySQL • Socket.io
 
 ---
 
 ### ☁️ AWS Cloud Architecture
-
-Deployed a **secure and scalable WordPress architecture** separating frontend and database services.
+Implemented scalable **WordPress infrastructure on AWS**.
 
 **Services:** EC2 • RDS • S3 • IAM • CloudWatch • Route53
 
 ---
 
-### 🐧 Linux System Administration (RHEL)
-
-- Local YUM repository configuration  
-- NFS server setup  
-- SELinux troubleshooting  
-- User & permission management
+### 🐧 Linux System Administration
+Performed enterprise **RHEL administration tasks** including NFS, SELinux and repositories.
 
 ---
 
@@ -89,11 +83,11 @@ Deployed a **secure and scalable WordPress architecture** separating frontend an
 
 ---
 
-# 📅 Live Contribution Graph (Dark Theme)
+# 📅 GitHub Contribution Calendar
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalkayande&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
+<img src="https://ghchart.rshah.org/0d1117/vishalkayande" />
 
 </div>
 
