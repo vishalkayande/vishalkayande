@@ -10,17 +10,18 @@
 
 ### 👨‍💻 About Me
 
-I am a motivated **Computer Science & Engineering Student** at Deogiri Institute of Engineering and Management Studies. I am passionate about bridging the gap between development and operations.
+I am a motivated **Computer Science & Engineering Student** passionate about **Cloud Computing, DevOps, and Linux System Administration**.
 
-* 🔭 I’m currently working on **AWS Cloud Architectures and Containerization**.
-* 🌱 I’m currently learning **Docker, Podman, and Advanced AWS Services**.
-* ☁️ I have a strong foundation in **Cloud Computing (AWS/GCP)** and **Linux Administration (RHEL)**.
-* 🎓 **Certifications:** RHCSA, Google Cloud Career Launchpad, Oracle Cloud Infrastructure Foundations.
-* 📫 How to reach me: **vishalskayande121@gmail.com**
+* 🔭 Currently working on **AWS Cloud Architectures and Containerization**
+* 🌱 Learning **Docker, Podman, and Advanced AWS Services**
+* ☁️ Strong foundation in **AWS / GCP Cloud Platforms**
+* 🐧 Experienced with **RHEL System Administration**
+* 🎓 Certifications: **RHCSA | Google Cloud Career Launchpad | Oracle Cloud Foundations**
+* 📫 Email: **vishalskayande121@gmail.com**
 
 ---
 
-### 🛠️ Technical Skills
+# 🛠️ Technical Skills
 
 <div align="center">
 
@@ -28,7 +29,7 @@ I am a motivated **Computer Science & Engineering Student** at Deogiri Institute
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
+<img src="https://img.shields.io/badge/RedHat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" />
@@ -43,52 +44,93 @@ I am a motivated **Computer Science & Engineering Student** at Deogiri Institute
 
 ---
 
-### 🚀 Featured Projects
+# 🚀 Featured Projects
 
-#### 🌐 Global Collaboration Hub (GCH)
-* **Overview:** A centralized hub for global teams to collaborate on projects featuring real-time messaging, task management, and file sharing.
-* **Tech Stack:** Python, HTML/CSS, MySQL, Socket.io.
-* **Key Feature:** Implemented **Socket.io** for real-time bi-directional communication and integrated **JWT** for secure authentication.
+### 🌐 Global Collaboration Hub (GCH)
 
-#### ☁️ AWS Cloud Architecture Implementation
-* **Overview:** Deployed a scalable WordPress architecture separating frontend and database services for enhanced security.
-* **Tech Stack:** AWS EC2, RDS, S3, EFS, Lambda, IAM, CloudWatch.
-* **Key Feature:** Implemented Load Balancers and Route 53 for high availability.
+**Overview**
 
-#### 🐧 Linux System Administration (RHEL)
-* **Overview:** Advanced system administration tasks on Red Hat Enterprise Linux.
-* **Key Feature:** Configured local repositories, managed **NFS**, and performed SELinux troubleshooting.
+A collaboration platform for global teams featuring messaging, task management, and file sharing.
 
----
+**Tech Stack**
 
-### 📊 GitHub Analytics
+Python • HTML/CSS • MySQL • Socket.io
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalkayande&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkayande&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+**Key Feature**
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkayande&theme=tokyonight&hide_border=true" />
-</div>
+Real-time communication using **Socket.io** with **JWT-based authentication**.
 
 ---
 
-### 📈 Contribution Heatmap
+### ☁️ AWS Cloud Architecture Implementation
+
+**Overview**
+
+Implemented a scalable **WordPress cloud architecture** with separated frontend and database layers.
+
+**Technologies**
+
+AWS EC2 • RDS • S3 • EFS • IAM • CloudWatch • Lambda
+
+**Key Feature**
+
+Configured **Load Balancers and Route53** for high availability.
+
+---
+
+### 🐧 Linux System Administration (RHEL)
+
+**Overview**
+
+Performed advanced **RHEL administration tasks**.
+
+**Key Work**
+
+* Local YUM repository setup
+* NFS server configuration
+* SELinux troubleshooting
+* User and permission management
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalkayande&theme=tokyo-night&hide_border=true&area=true" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=vishalkayande&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkayande&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkayande&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
 
-### 🔗 Connect with Me
+# 📅 GitHub Contribution Heatmap
 
 <div align="center">
-  <a href="https://linkedin.com/in/vishal-kayande">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:vishalskayande121@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+<img src="https://ghchart.rshah.org/vishalkayande" />
+
+</div>
+
+---
+
+# 🔗 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/vishal-kayande">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:vishalskayande121@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
