@@ -59,20 +59,7 @@ I am a motivated **Computer Science & Engineering Student** at Deogiri Institute
 * **Overview:** Advanced system administration tasks on Red Hat Enterprise Linux.
 * **Key Feature:** Configured local software repositories, managed **NFS** for shared storage, and performed SE-Linux troubleshooting.
 
----
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalkayande&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vishal's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkayande&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkayande&theme=tokyonight&hide_border=true" alt="Streak" />
-</div>
-
----
 
 ### 🔗 Connect with Me
 
