@@ -95,7 +95,7 @@ _Dec 2025 – Jan 2026_
 * **Overview:** Serverless event-driven bot that automatically shuts down non-compliant EC2 instances. Real-time SNS alerts, weekly compliance reports in S3, DynamoDB audit logs. Entire infra provisioned via Terraform IaC.
 * **Tech Stack:** AWS Lambda, EventBridge, DynamoDB, SNS, Terraform, S3.
 
-#### 🗳️ Secure Multi-Tier Live Voting Application
+#### 🗳️ [Secure Multi-Tier Live Voting Application](https://github.com/vishalkayande/Multi_tier_voting_application.git)
 * **Overview:** 3-tier web app using Docker — Nginx frontend, Node.js/Express backend, MongoDB database. Services isolated via Docker bridge networks restricting DB access. Production-grade orchestration and persistence.
 * **Tech Stack:** Docker, Nginx, Node.js, Express, MongoDB, Bridge Networks.
 
@@ -103,58 +103,13 @@ _Dec 2025 – Jan 2026_
 * **Overview:** Advanced RHEL administration — user management, file permissions, SELinux troubleshooting. Deployed NFS for secure shared storage. Deep focus on enterprise-grade Linux security and resource management.
 * **Tech Stack:** RHEL, SELinux, NFS, Bash, User Management.
 
-#### 🎓 CollegeSphere — Academic Event Platform
+#### 🎓 [CollegeSphere — Academic Event Platform](https://github.com/vishalkayande/CollegeSphere.git)
 * **Overview:** Full-stack event coordination platform with dashboards for students, organizers, and admins. JWT + OTP auth, real-time updates via Socket.io. Containerized with Docker Compose (React.js, Node.js, MongoDB).
 * **Tech Stack:** React.js, Node.js, MongoDB, Docker Compose, Socket.io, JWT.
 
-#### 🌐 [Global Collaboration Hub](https://github.com/vishalskayande121)
+#### 🌐 [Global Collaboration Hub](https://github.com/vishalkayande/Global_Collaboration_Hub.git)
 * **Overview:** Full-stack platform enabling real-time messaging, task management, and file sharing for distributed global teams. Built with Python, HTML/CSS, MySQL, and Socket.io for bi-directional communication.
 * **Tech Stack:** Python, MySQL, Socket.io, HTML/CSS, Real-time communication.
-
----
-
-### � Certifications & Awards
-
-#### Certifications
-<div align="center">
-  <div style="display: inline-block; background: #0f1d2e; border: 1px solid #1e3048; border-radius: 16px; padding: 1.5rem; margin: 0.5rem;">
-    <div style="font-size: 2rem; margin-bottom: 0.5rem;">🎖️</div>
-    <div style="font-weight: 700; color: #e4f2ff;">Red Hat Certified System Administrator</div>
-    <div style="font-family: monospace; font-size: 0.75rem; color: #5a7a90;">Red Hat · RHCSA</div>
-  </div>
-  <div style="display: inline-block; background: #0f1d2e; border: 1px solid #1e3048; border-radius: 16px; padding: 1.5rem; margin: 0.5rem;">
-    <div style="font-size: 2rem; margin-bottom: 0.5rem;">☁️</div>
-    <div style="font-weight: 700; color: #e4f2ff;">Cloud Engineer — Career Launchpad</div>
-    <div style="font-family: monospace; font-size: 0.75rem; color: #5a7a90;">Google Cloud</div>
-  </div>
-  <div style="display: inline-block; background: #0f1d2e; border: 1px solid #1e3048; border-radius: 16px; padding: 1.5rem; margin: 0.5rem;">
-    <div style="font-size: 2rem; margin-bottom: 0.5rem;">📈</div>
-    <div style="font-weight: 700; color: #e4f2ff;">Scaling with Google Cloud Operations</div>
-    <div style="font-family: monospace; font-size: 0.75rem; color: #5a7a90;">Simplilearn</div>
-  </div>
-  <div style="display: inline-block; background: #0f1d2e; border: 1px solid #1e3048; border-radius: 16px; padding: 1.5rem; margin: 0.5rem;">
-    <div style="font-size: 2rem; margin-bottom: 0.5rem;">💻</div>
-    <div style="font-weight: 700; color: #e4f2ff;">Competitive Programming</div>
-    <div style="font-family: monospace; font-size: 0.75rem; color: #5a7a90;">GeeksforGeeks</div>
-  </div>
-  <div style="display: inline-block; background: #0f1d2e; border: 1px solid #1e3048; border-radius: 16px; padding: 1.5rem; margin: 0.5rem;">
-    <div style="font-size: 2rem; margin-bottom: 0.5rem;">🔶</div>
-    <div style="font-weight: 700; color: #e4f2ff;">Oracle Cloud Foundations Associate</div>
-    <div style="font-family: monospace; font-size: 0.75rem; color: #5a7a90;">Oracle</div>
-  </div>
-</div>
-
-#### Honors & Awards
-<div align="center">
-  <div style="display: inline-flex; align-items: center; gap: 1.5rem; background: #0f1d2e; border: 1px solid rgba(34,211,238,0.3); border-radius: 16px; padding: 2rem;">
-    <div style="font-size: 2.8rem;">🏆</div>
-    <div>
-      <div style="font-weight: 800; color: #e4f2ff; font-size: 1.1rem;">Runner's Up — Build With AI Hackathon</div>
-      <div style="color: #b8cedd; font-size: 0.9rem; margin-top: 0.4rem;">May 2025 · CSMSS College of Engineering, Chhatrapati Sambhajinagar</div>
-    </div>
-  </div>
-</div>
-
 ---
 
 ### �🔗 Connect with Me
@@ -163,7 +118,7 @@ _Dec 2025 – Jan 2026_
   <a href="https://linkedin.com/in/vishal-kayande">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/vishalskayande121">
+  <a href="https://github.com/vishalkayande">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://x.com/vishal_kay9098">
